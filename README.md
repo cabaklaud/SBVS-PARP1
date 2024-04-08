@@ -4,7 +4,7 @@
 
 You will find herein the code and files related to our paper:
 
-**Caba, K., Tran-Nguyen, VK., Rahman, T. & Ballester, P. J. Comprehensive machine learning boosts structure-based virtual screening for PARP1 inhibitors. *J Cheminform* 16, 40 (2024)**
+**Caba, K., Tran-Nguyen, V. K., Rahman, T. & Ballester, P. J. Comprehensive machine learning boosts structure-based virtual screening for PARP1 inhibitors. *J Cheminform* 16, 40 (2024)**
 
 https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00832-1
 
